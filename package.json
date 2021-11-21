@@ -1,19 +1,21 @@
 {
-  "name": "state-management",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cookie-parse": "^0.4.0",
-    "cookie-parser": "^1.4.5",
-    "express": "^4.17.1",
-    "express-session": "^1.17.2",
-    "pub": "^0.2.0",
-    "pug": "^2.0.4"
-  }
+    "name": "state-management",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Son Dang",
+    "license": "ISC",
+    "dependencies": {
+        "cookie-parse": "^0.4.0",
+        "cookie-parser": "^1.4.5",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "passport": "^0.5.0",
+        "passport-local": "^1.0.0",
+        "pub": "^0.2.0",
+        "pug": "^3.0.2"
+    }
 }
